@@ -1,2 +1,2 @@
 # ASCII Art
- A python code, that when given an image, creates an ASCII representation of it.
+ A python program, that when given an image, creates an ASCII representation of it.
